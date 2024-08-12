@@ -3,6 +3,9 @@
     --cor-de-fundo:#000000;
 
 }
+*{
+    font-weight: 400;
+}
 body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
