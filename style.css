@@ -10,7 +10,7 @@ body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
 }
-conteudo-perfil. {
+.conteudoperfil {
     display: flex;
 
 }
