@@ -17,6 +17,7 @@ body{
 .nome {
     font-size: 45px;
     height: 200px;
+    weight: 200px;
 }
 
 .biografia {
