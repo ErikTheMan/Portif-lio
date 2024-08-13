@@ -10,3 +10,6 @@ body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
 }
+.coteudo-perfil {
+    display: flex;
+}
