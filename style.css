@@ -22,6 +22,7 @@ body{
 }
 .nome {
     font-size: 45px;
+    margin: 50px;
 }
 .biografia {
     font-size: 36px;
