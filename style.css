@@ -18,7 +18,6 @@ body{
 .coluna1 {
     display: flex;
     flex-direction: column;
-    margin: 40px;
 }
 .nome {
     font-size: 45px;
