@@ -10,7 +10,7 @@ body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
 }
-.coteudo-perfil {
+.perfil {
     width: 200px;
     height: 200px;
 }
