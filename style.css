@@ -18,16 +18,15 @@ body{
 .coluna1 {
     display: flex;
     flex-direction: column;
-    margin: 30px;
+    margin: 40px;
 }
 .nome {
     font-size: 45px;
-
 }
-
 .biografia {
     font-size: 36px;
 }
+
 .project {
     flex-direction: column;
     text-align: center;
