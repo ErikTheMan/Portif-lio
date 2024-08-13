@@ -29,6 +29,9 @@ body{
     font-size: 36px;
 }
 .project {
+    flex-direction: column;
     text-align: center;
     font-size: 50px;
+    background: gray;
+
 }
