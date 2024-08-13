@@ -12,9 +12,13 @@ body{
 }
 .conteudoperfil {
     display: flex;
-
 }
+
 .nome {
     font-size: 36px;
-    
+    font-weight: 200px;
+}
+
+.biografia {
+
 }
