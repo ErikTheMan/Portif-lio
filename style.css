@@ -10,6 +10,10 @@ body{
     color: var(--branco);
     background-color: var(--cor-de-fundo);
 }
+3dguy2. {
+    display: flex;
+    
+}
 .perfil {
     width: 200px;
     height: 200px;
