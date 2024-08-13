@@ -17,6 +17,7 @@ body{
 
 .nome {
     font-size: 45px;
+    text-align: center;
     height: 200px;
     weight: 200px;
 }
