@@ -43,3 +43,22 @@ body{
     height: 400px;
     background-color: #1e293b;
 }
+.sword1 {
+    margin: 0px;
+}
+
+
+.sword2 {
+	position: absolute; 
+	left: 15px; /* posiciona a 90px para a esquerda */ 
+	top: 277px; /* posiciona a 70px para baixo */
+	}
+
+
+    #mostrar{
+    display: none;
+  }
+  
+  #passar_mouse:hover #mostrar{
+    display:block;
+    }
