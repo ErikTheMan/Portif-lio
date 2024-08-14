@@ -32,5 +32,14 @@ body{
     text-align: center;
     font-size: 50px;
     background: gray;
+}
+.coluna2 {
+    display: flex;
+    gap: 120px;
 
+}
+.projeto {
+    width: 500px;
+    height: 400px;
+    background-color: #1e293b;
 }
